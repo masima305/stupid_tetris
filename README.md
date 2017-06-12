@@ -8,7 +8,7 @@
 
 ----
 게임이 진행되는 과정에서 'p'버튼을 누르면 정지시킬 수 있습니다.
-![pause](stupid_tetris/Pause.png)
+![pause](https://github.com/masima305/stupid_tetris/blob/master/Pause.png)
 ----
 
 
